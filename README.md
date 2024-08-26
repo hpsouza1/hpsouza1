@@ -23,9 +23,7 @@
 - <code>Service Cloud Basics</code>
 - <code>Innovation Ideation & Prototyping</code>
 
-</div>
-
 ★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆
 
-"See you, space cowboy..."
+"Focus on what you are good at, delegate everything else."
 
