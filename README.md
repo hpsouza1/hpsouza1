@@ -7,7 +7,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%23239120.svg?style=for-the-badge&logo=aspdotnet&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpsouza1&layout=compact)
