@@ -9,7 +9,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpsouza1&layout=compact)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@pmentta_/8a0bb1cd-2bf5-40ec-a53c-7429ffd85b4b.png" width="400" /></a>
 <img src="https://i.pinimg.com/originals/1a/42/94/1a429405f81058fcbadeee192039a9de.gif" alt=" " width="200">
 
 
