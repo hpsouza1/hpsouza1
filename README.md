@@ -10,7 +10,7 @@
 
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@pmentta_/8a0bb1cd-2bf5-40ec-a53c-7429ffd85b4b.png" width="400" /></a>
-<img src="https://i.pinimg.com/originals/1a/42/94/1a429405f81058fcbadeee192039a9de.gif" alt=" " width="200">
+<img src="https://i.pinimg.com/originals/64/db/32/64db32b962775f18573ede759f5ec6f2.gif" alt=" " width="400">
 
 
 
